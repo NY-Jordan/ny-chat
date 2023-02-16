@@ -1,0 +1,1 @@
+export const  UserRegisterSelector = ((state) => state.register);
